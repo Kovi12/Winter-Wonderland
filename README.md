@@ -2,7 +2,7 @@
 Start - House Interior<br>
 <br>
 <img src="Pictures/1.png"><br><br>
-Outside - Landscape<br>
+Outside - Landscape<br><br>
 <img src="Pictures/2.png"><br><br>
 Key<br>
 <br>
